@@ -1,4 +1,4 @@
-matt
+matt - An amazing project
 ====
 
-my personal website
+My personal website
